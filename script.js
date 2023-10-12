@@ -1,6 +1,6 @@
 //your JS code here. If required.
 function enlargeIt() {
-	let para=document.getElementById("status");
+	const para=document.getElementById("status");
 	para.innerText="Entered Metaverse"
-	para.
+	para.style.fontSize="31.25px";
 }
